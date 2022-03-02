@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+body, html {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(148 163 184 / 300) !important;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
