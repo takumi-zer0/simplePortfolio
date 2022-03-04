@@ -5,6 +5,8 @@
 /.pnp
 .pnp.js
 
+__MAXOSX
+
 # testing
 /coverage
 
